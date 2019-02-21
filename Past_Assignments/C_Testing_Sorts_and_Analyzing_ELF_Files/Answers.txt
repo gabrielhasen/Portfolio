@@ -1,0 +1,150 @@
+Gabriel Hasenoehrl
+9/20/18
+CS 270
+Wilder
+
+/*	Notes
+*	This was compiled on my own computer, off of wormulon.
+*	CPU:	Intel core i7-7700k 4.20GHz
+*	Ram:	16gb
+*/
+
+1. The size of each function, in decimal.
+---------------------------------------------------------
+The readelf of my bubble sort function shows, in the symbol table, that the decimal size is 414.
+I double check this size in the link map as well.  I found the hexadecimal for my bubble sort 
+function, and it was 0x19e which also equals 414.
+
+The readelf of my insertion sort function shows, in the symbol table, that the decimal size is 346.
+I double check this size in the link map as well.  I found the hexadecimal for my insertion sort 
+function, and it was 0x15a which also equals 346.
+
+The readelf of my quick sort function shows, in the symbol table, that the decimal size is 98.
+I double check this size in the link map as well.  I found the hexadecimal for my quick sort 
+function, and it was 0x275. The quick sort function was 98 in decimal, and the 'part' function in the 
+quick sort file was 531 in decimal.  These both add to 629, which is the hexadecimal for 0x275.
+
+2. The address where each function is located in memory, in hexadecimal.
+---------------------------------------------------------
+The bubble sort function in the link map is located at hexadecimal address: 0x00000000000006ca
+
+The insertion sort function in the link map is located at hexadecimal address: 0x00000000000006ca
+
+The quick sort function in the link map is located at hexadecimal address: 0x00000000000008dd
+
+
+3. The name and address of the entry point for the entire program.
+---------------------------------------------------------
+In the main file of the link map the entry point is named '_start' and has the address of 0x0000000000000710
+
+4.The locations and names of any functions from "standard" C libraries that are linked with your file.
+---------------------------------------------------------
+The five files from the standard C libraries that I used, or were called, are:
+Name:
+	libgcc_s.so
+	libgcc_s.so.1
+	libc.so
+	libc.so.6
+	ld-linux-x86-64.so.2
+
+From what I could tell, which I may be wrong, the names did not have any hexadecimal locations 
+associated with them in the linker script and memory map.  The .so files were also not referenced to anywhere 
+else in the link map.  So, my conclusion is they are to be loaded into memory in the load phase.
+
+5. The locations and sizes (in decimal) of the data sections used by your program.
+---------------------------------------------------------
+The sizes and locations for the data sections used by my program were
+
+Names:				Decimal Size:			Location:
+arrIn					67108864					0x0000000000202040
+arrBub				67108864					0x0000000004202040
+arr					67108864					0x0000000008202040
+
+6. The time (in seconds) that each of your sort functions takes to sort the data.  
+---------------------------------------------------------
+The time that each of my sort functions took to sort all of the data were:
+
+Quick Sort:
+Total Time is: 10 seconds
+
+Bubble Sort:
+Total Time is: 954 seconds
+
+Inertion Sort:
+Total Time is: 439 seconds
+
+
+
+============================
+RECOMPILED WITH -O OPTION
+============================
+
+
+
+1. The size of each function, in decimal.
+---------------------------------------------------------
+The readelf of my bubble sort function shows, in the symbol table, that the decimal size is 194.
+I double check this size in the link map as well.  I found the hexadecimal for my bubble sort 
+function, and it was 0xc2 which also equals 194.
+
+The readelf of my insertion sort function shows, in the symbol table, that the decimal size is 305.
+I double check this size in the link map as well.  I found the hexadecimal for my insertion sort 
+function, and it was 0x131 which also equals 305.
+
+The readelf of my quick sort function shows, in the symbol table, that the decimal size is 69.
+I double check this size in the link map as well.  I found the hexadecimal for my quick sort 
+file, and it was 0x16f.  The quick sort function was 69 in decimal, and the 'part' function in the 
+quick sort file was 298 in decimal.  These both add to 367, which is the hexadecimal for 0x16f.
+
+2. The address where each function is located in memory, in hexadecimal.
+---------------------------------------------------------
+The bubble sort function in the link map is located at hexadecimal address: 0x0000000000000a80
+
+The insertion sort function in the link map is located at hexadecimal address: 0x0000000000000b42
+
+The quick sort function in the link map is located at hexadecimal address: 0x0000000000000d9d
+
+
+3. The name and address of the entry point for the entire program.
+---------------------------------------------------------
+In the main file of the link map the entry point is named '_start' and has the address of 0x0000000000000780
+
+4.The locations and names of any functions from "standard" C libraries that are linked with your file.
+---------------------------------------------------------
+Again, the five files from the standard C libraries that I used, or were called, are:
+
+Name:
+	libgcc_s.so
+	libgcc_s.so.1
+	libc.so
+	libc.so.6
+	ld-linux-x86-64.so.2
+
+From what I could tell, which I may be wrong, the names did not have any hexadecimal locations 
+associated with them in the linker script and memory map.  The .so files were also not referenced to anywhere 
+else in the link map.  So, my conclusion again is they are to be loaded into memory in the load phase.
+
+5. The locations and sizes (in decimal) of the data sections used by your program.
+---------------------------------------------------------
+The sizes and locations for the data sections used by my program were
+
+Names:				Decimal Size:			Location:
+arrIn					67108864					0x0000000000202040
+arrBub					67108864					0x0000000004202040
+arr						67108864					0x0000000008202040
+
+So, I did notice that none of the locations that these were stored at changed.
+Also the sizes did not change.
+
+6. The time (in seconds) that each of your sort functions takes to sort the data.  
+---------------------------------------------------------
+The time that each of my sort functions took to sort all of the data were:
+
+Quick Sort:
+Total Time is: 8 seconds
+
+Bubble Sort:
+Total Time is: 821 seconds
+
+Inertion Sort:
+Total Time is: 427 seconds
