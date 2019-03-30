@@ -1,10 +1,8 @@
-Libraries I am using that I did not create:
+The professor for this class gave us a matrix library to use for the assignments assigned.
+So, the cpp files I did not program but were given are:
 	mat.h
+	mat.cpp
 	rand.h
-
-Files I created:
-	nn.cpp
-	makefile
-
-Test files:
-	*.in
+	rand.cpp
+	randf.cpp
+	randmy.cpp
