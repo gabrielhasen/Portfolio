@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f549b2c63e8a18841b800590e1c9dfae, type: 3}
+  m_Name: _test1
+  m_EditorClassIdentifier: 
+  itemName: Test1
+  type: 3
+  icon: {fileID: 21300002, guid: 358b5d9f23bc9413e87c9948acc67ee1, type: 3}
+  SciencePoints: 0
+  description: Science Text
+  descriptionItem: Gameplay Text
+  statList:
+  - {fileID: 11400000, guid: e0375415db2c31d4f93c8f3f672bbb42, type: 2}
+  - {fileID: 11400000, guid: 3af7f6dbfd916bf48a9958daa80172b0, type: 2}
+  - {fileID: 11400000, guid: 7bc0963b4e1ae3b4c98edcac92fdcdab, type: 2}
