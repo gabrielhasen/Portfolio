@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f549b2c63e8a18841b800590e1c9dfae, type: 3}
+  m_Name: Amphibole
+  m_EditorClassIdentifier: 
+  itemName: Amphibole
+  type: 0
+  icon: {fileID: 21300006, guid: fa6d364a5a0575245859952062aea14b, type: 3}
+  SciencePoints: 0
+  description: 'Amphibole is an important rock-forming mineral that may be seen in
+    basalts at Mid-Ocean Ridges.  '
+  descriptionItem: 
+  statList: []
+  hasRead: 0
+  timeRead: 0
