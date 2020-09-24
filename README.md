@@ -16,12 +16,12 @@ Below is the process of using using multiple noise maps to go over a base noise 
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration_Finished.PNG)
 
 
-### [Tile Town](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(Prototype_Unfinished)%20Tile_TownGame)
+### [ \[  Tile Town  \] ](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(Prototype_Unfinished)%20Tile_TownGame)
 
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.PNG)
 
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.gif)
-### [2D Turn Based Generation](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(ProtoType)%202D%20Base%20Movement) 
+### [ \[  2D Turn Based Generation  \] ](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(ProtoType)%202D%20Base%20Movement) 
 
 ## Work Projects
 Work Projects
