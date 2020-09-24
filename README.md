@@ -1,6 +1,6 @@
 # Gabriel Hasenoehrl's Projects
 ## Table of Contents
-  -Personal Projects(personalprojects)
+  - [Personal Projects](#personalprojects)
     - [Island Generation](#islandGeneration)
     - [Tile Town](#tileTown)
     - [2D Turn Based Generation](#2dTurnBasedGeneration)
