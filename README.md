@@ -4,7 +4,7 @@
     - [Island Generation](#islandGeneration)
     - [Tile Town](#tileTown)
     - [2D Turn Based Generation](#2dTurnBasedGeneration)
-   - [Work Projects](#workprojects)
+  - [Work Projects](#workprojects)
     - [Venture Within](#venturewithin)
 ## Personal Projects
 ### [Island Generation](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(Finished)%20Random%20World%20Generation%20Tiles)
