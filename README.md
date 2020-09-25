@@ -13,6 +13,8 @@ This is a project using C# and Unity in order to generate continents / islands w
 Below is the process of using using multiple noise maps to go over a base noise map in passes in order to achieve the continents / islands look that was intended.
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration.gif)
 
+<img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration.gif" width="624" height="374">
+
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration_Finished.PNG" width="624" height="374">
 
 
