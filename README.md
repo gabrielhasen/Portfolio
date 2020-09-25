@@ -14,6 +14,7 @@ Below is the process of using using multiple noise maps to go over a base noise 
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration.gif)
 
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration_Finished.PNG =250x250)
+<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration_Finished.PNG" width="48">
 
 
 ### [Tile Town](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(Prototype_Unfinished)%20Tile_TownGame)
