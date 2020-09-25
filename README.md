@@ -13,14 +13,13 @@ This is a project using C# and Unity in order to generate continents / islands w
 Below is the process of using using multiple noise maps to go over a base noise map in passes in order to achieve the continents / islands look that was intended.
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration.gif)
 
-<img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration.gif" width="624" height="374">
+<img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration.gif" width="936" height="561">
 
-<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration_Finished.PNG" width="624" height="374">
+<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/WorldGeneration_Finished.PNG" width="936" height="561">
 
 
 ### [Tile Town](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(Prototype_Unfinished)%20Tile_TownGame)
-
-![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.PNG)
+<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.PNG" width="936" height="561">
 
 ![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.gif)
 
