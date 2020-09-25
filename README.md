@@ -27,12 +27,11 @@ The city management aspect never was finished, as it wasn't very interesting.  T
 ### [2D Turn Based Generation](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(ProtoType)%202D%20Base%20Movement) 
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_Generation.PNG" width="936" height="561">
 <img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_BasicAbilities.gif" width="936" height="561">
-<img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_BasicAI.gif" width="936" height="561">
 
 ## Work Projects
 Work Projects 
 ### Venture Within
-<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_basicUpgradeUI.PNG" width="936" height="561"> 
+<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_basicUpgradeUI.PNG" width="1036" height="661"> 
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_bossRoom.PNG" width="936" height="561"> 
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_minimap.png" width="936" height="561">
 
@@ -43,4 +42,3 @@ Work Projects
 
 <img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_boing.gif" width="936" height="561">
 <img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_droppingPlatform.gif" width="936" height="561">
-<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_minimap.png" width="936" height="561">
