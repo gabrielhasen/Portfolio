@@ -37,7 +37,7 @@ Work Projects
 
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_roomConstruction.PNG" width="936" height="561">
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_hydroVentStructure.jpg" width="936" height="561">
-<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_ventGenerationV1.PNG" width="936" height="561">
+<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_ventGenerationV1.PNG" width="936" height="1200">
 
 
 <img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_boing.gif" width="936" height="561">
