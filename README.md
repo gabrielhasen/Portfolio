@@ -22,9 +22,9 @@ Below is the process of using using multiple noise maps to go over a base noise 
 <img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.gif" width="936" height="561">
 
 ### [2D Turn Based Generation](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(ProtoType)%202D%20Base%20Movement) 
-![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_Generation.PNG)
-![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_BasicAbilities.gif)
-![Alt Text](https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_BasicAI.gif)
+<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_Generation.PNG" width="936" height="561">
+<img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_BasicAbilities.gif" width="936" height="561">
+<img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/2DGrid_BasicAI.gif" width="936" height="561">
 
 ## Work Projects
 Work Projects
