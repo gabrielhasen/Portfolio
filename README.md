@@ -17,6 +17,9 @@ Below is the process of using using multiple noise maps to go over a base noise 
 
 
 ### [Tile Town](https://github.com/gabrielhasen/Portfolio/tree/master/(Personal)%20Unity%20Concept%20Projects/(Prototype_Unfinished)%20Tile_TownGame)
+This is a project using C# and Unity and its intention was to make a game board full of randomly generated tiles that all individually hold information to them.  Each game board is different as it randomly generates a main river, small ponds, a purple enemy tile, and forest tiles for the game board.  Each tile would communicate to a singleton called 'Game Manager' to convert the individual tiles information into a game about managing a city.
+
+The city management aspect never was finished, as it wasn't very interesting.  This projects tile system was repurposed to be used for the Island Generation project above.
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.PNG" width="936" height="561">
 
 <img class="animated-gif" src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/TileSystem.gif" width="936" height="561">
