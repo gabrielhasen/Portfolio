@@ -31,7 +31,7 @@ The city management aspect never was finished, as it wasn't very interesting.  T
 ## Work Projects
 Work Projects 
 ### Venture Within
-<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_basicUpgradeUI.PNG" width="1036" height="561"> 
+<img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_basicUpgradeUI.PNG" width="1036" height="721"> 
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_bossRoom.PNG" width="936" height="561"> 
 <img src="https://github.com/gabrielhasen/Portfolio/blob/master/misc/VentureWithin_minimap.png" width="936" height="561">
 
